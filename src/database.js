@@ -1,6 +1,6 @@
 let mongoose = require("mongoose");
-const server = "127.0.0.1:27017";
-const database = "test";
+const server = "root:elkhoudiri123@ds245234.mlab.com:45234";
+const database = "instagram2";
 class Database {
   constructor() {
     this._connect();

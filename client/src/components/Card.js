@@ -108,7 +108,6 @@ class RecipeReviewCard extends React.Component {
             value={state.text}
           />
         </form>
-
       </Card>
     );
   }
